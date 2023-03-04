@@ -1,0 +1,89 @@
+.start {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+    background-color: #bc0000;
+    color: #fff;
+    text-align: center;
+}
+
+.start_first {
+    margin: 0;
+    text-transform: uppercase;
+}
+.links {
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links a {
+    color: #fff;
+    text-decoration: none;
+}
+.conor {
+    margin-top: 15px;
+    width: 100%;
+    height: 350px;
+}
+.conor_arty {
+    display: flex;
+    background-color: cadetblue;
+    color: #080809;
+    text-align: center;
+}
+.conor img {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 500px;
+    height: 300px;
+}
+.conor h2 {
+    color: #080809;
+    text-align: left;
+}
+.conor_arty p {
+    margin-right: 20px;
+    color: #080809;
+    text-align: left;
+    font-size: 15px;
+}
+.title p {
+    color: #080809;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.parts {
+    width: 100%;
+    height: 400px;
+}
+.parts img {
+    width: 90%;
+    height: 150px;
+}
+.parts a {
+    color: #080809;
+    text-decoration: none;
+}
+.parts h2 {
+    color: #080809;
+    font-size: 20px;
+}
+.parts p {
+    margin-right: 19px;
+    font-size: 15px;
+    font-family: Calibri;
+}
+.but {
+    width: 80px;
+    height: 20px;
+    border: none;
+    background-color: #bc0000;
+}
+.but a{
+    font-size: 10px;
+    color: #f6f6f6;
+}
